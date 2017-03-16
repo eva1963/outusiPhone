@@ -1,0 +1,24 @@
+{
+  "name": "phone",
+  "version": "1.0.0",
+  "description": "欧图斯项目手机端",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eva1963/outusiPhone.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eva1963/outusiPhone/issues"
+  },
+  "homepage": "https://github.com/eva1963/outusiPhone#readme",
+  "devDependencies": {
+    "bootstrap": "^3.3.7",
+    "gulp": "^3.9.1",
+    "gulp-compass": "^2.1.0"
+  }
+}
